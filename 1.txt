@@ -2,3 +2,4 @@ print("Are u mad?")
 print("YES totally I am")
 
 print("hi")
+print("놀러와요 동물의 숲")
