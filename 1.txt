@@ -3,3 +3,5 @@ print("YES totally I am")
 
 print("hi")
 print("놀러와요 동물의 숲")
+
+print("Nintendo")
