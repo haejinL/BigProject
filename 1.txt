@@ -1,2 +1,4 @@
 print("Are u mad?")
 print("YES totally I am")
+
+print("hi")
